@@ -1,2 +1,2 @@
-# Data-Visualization-iwth-Matplotlib
+# Data-Visualization-with-Matplotlib
 Matplotlib tutorials in one notebook
